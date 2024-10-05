@@ -13,3 +13,6 @@ function wait(ticks, func)
         end
     end)
 end
+
+
+-- I added a comment
